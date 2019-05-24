@@ -10,10 +10,10 @@ Example
 
 ![](example/jiaozhu.jpg)
 
-1. `img2txt.py jiaozhu.jpg > without-color.html` : [demo](http://hit9.github.io/img2txt/example/without-color.html)
-2. `img2txt.py jiaozhu.jpg --dither > without-color-dither.html` : [demo](http://hit9.github.io/img2txt/example/without-color-dither.html)
-3. `img2txt.py jiaozhu.jpg --color > with-color.html`: [demo](http://hit9.github.io/img2txt/example/with-color.html)
-4. `img2txt.py jiaozhu.jpg --ansi`: [demo](http://hit9.github.io/img2txt/example/ansi-terminal.png)
+1. `img2txt.py jiaozhu.jpg > without-color.html` : [demo](example/without-color.html)
+2. `img2txt.py jiaozhu.jpg --dither > without-color-dither.html` : [demo](example/without-color-dither.html)
+3. `img2txt.py jiaozhu.jpg --color > with-color.html`: [demo](example/with-color.html)
+4. `img2txt.py jiaozhu.jpg --ansi`: [demo](example/ansi-terminal.png)
 
 Installation
 ------------
